@@ -1,11 +1,14 @@
 # horiseon-access-able
 
 ## Description
-Webpage contains accessible alt attributes for all users so that it can be optimized for search engines. Creating alt tag for pictures with multiple images posed a challenge as the alt tag can not be too long.  
+The Search Engine Optimization helps businesses increase their assessibility and brings the right customers to a specific website geared towards their needs.
 
-##Installation
- 
- N/A
+The Online Reputation Management helps businesses control what their customers see when the business has been search on the internet. 
+
+Social Media Marketing helps businesses determine what platforms to use to generate more customers.
+
+This webpage also contains accessible alt attributes for all users so that it can be optimized for search engines. Creating alt tag for pictures with multiple images posed a challenge as the alt tag can not be too long.  
+
  
 #Usage
 
